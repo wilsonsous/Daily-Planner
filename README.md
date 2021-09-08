@@ -1,6 +1,8 @@
 # Daily-Planner
 Daily-Planner assist in organizing your schedule day within the time frame of 9am-5pm. You are free to make edits to your day and save them at any time with an consistenly updated time/day with the help of moment.js
 
+You can view it here: https://github.com/wilsonsous/Daily-Planner
+
 ## User Story 
 ```md
 AS AN employee with a busy schedule
