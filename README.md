@@ -9,6 +9,9 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
+## Screenshot
+![planner](https://user-images.githubusercontent.com/78562158/134623296-078a5854-d449-4ddf-b1c4-05e25810669e.png)
+
 
 ## Acceptance Criteria
 ```md
