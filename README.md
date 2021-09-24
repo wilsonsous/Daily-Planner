@@ -3,11 +3,17 @@ Daily-Planner assist in organizing your schedule day within the time frame of 9a
 
 
   # Table of Contents 
+  * [Technologies](#Technologies)
   * [Link](#Link)
   * [Visuals](#Visuals)
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
+
+# Technologies
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Link
 You can view it here: https://wilsonsous.github.io/Daily-Planner/
